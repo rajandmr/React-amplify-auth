@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"blogpostauthappdc99aa71": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
